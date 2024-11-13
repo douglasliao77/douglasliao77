@@ -24,13 +24,14 @@ jobs:
           pip install requests pytz
 
       - name: Run update script
-        run: python .github/scripts/update_readme.py
+        run: python3 .github/scripts/update_readme.py
 
       - name: Commit changes
         run: |
           git config --global user.name douglasliao77
           git config --global user.email douglasliao77@gmail.com
           git add README.md
+          git status
           git commit -m 'Daily update to README'
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/douglasliao77/douglasliao77.git
         continue-on-error: true  # Prevents error if there's no change to commit
