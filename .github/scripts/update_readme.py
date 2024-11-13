@@ -8,7 +8,7 @@ START_STANDINGS_MARKER = "<!-- START_LALIGA_STANDINGS -->"
 END_STANDINGS_MARKER = "<!-- END_LALIGA_STANDINGS -->"
 START_NEXT_MATCH_MARKER = "<!-- START_NEXT_MATCH -->"
 END_NEXT_MATCH_MARKER = "<!-- END_NEXT_MATCH -->"
-README_PATH = "../../README.md"
+README_PATH = "README.md"
 
 # API constants
 LIGA_STANDINGS_URL = "https://api.football-data.org/v4/competitions/PD/standings"
