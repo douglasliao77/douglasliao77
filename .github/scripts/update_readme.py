@@ -106,7 +106,7 @@ def get_next_match():
         else:
             table += f"| {home_team} | {away_team} | {date} | {competition} \n"
 
-    table += f"\n Last updated {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}"
+    table += f"\nLast updated {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}"
     return table
 
 # Update README file
