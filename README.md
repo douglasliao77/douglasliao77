@@ -11,7 +11,8 @@ Home Team | Away Team | Matchday | Competition
 | <img src='https://crests.football-data.org/558.png' alt='2024-11-23<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RC Celta de Vigo** | <img src='https://crests.football-data.org/81.png' alt='2024-11-23<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2024-11-23<br>21:00:00** | **Primera Division** 
 | FC Barcelona | Stade Brestois 29 | 2024-11-26 | UEFA Champions League 
 | FC Barcelona | UD Las Palmas | 2024-11-30 | Primera Division 
-Last updated 2024-11-13 01:25:44
+
+Last updated 2024-11-13 01:33:32
 <!-- END_NEXT_MATCH -->
 
 ### 📊 FC Barcelona in La Liga
