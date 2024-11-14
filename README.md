@@ -12,7 +12,7 @@ Home Team | Away Team | Matchday | Competition
 | FC Barcelona | Stade Brestois 29 | 2024-11-26 | UEFA Champions League 
 | FC Barcelona | UD Las Palmas | 2024-11-30 | Primera Division 
 
-Last updated 2024-11-13 01:33:32
+Last updated 2024-11-14 00:48:18
 <!-- END_NEXT_MATCH -->
 
 ### 📊 FC Barcelona in La Liga
