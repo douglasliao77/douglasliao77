@@ -75,7 +75,7 @@ def fetch_liga_standings():
 def get_next_match():
     url = "https://api.football-data.org/v4/teams/81/matches"
     headers = {
-        'X-Auth-Token': 'b6f45dd8ebea43a7bfea492687b72550'  # Replace with your API key
+        'X-Auth-Token': API_KEY
     }
     
     params = {
