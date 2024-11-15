@@ -33,6 +33,7 @@ jobs:
       - name: Run script
         env:
           API_KEY: ${{ secrets.API_KEY }}
+          MY_API_KEY: ${{ secrets.MY_API_KEY }}
         run: python3 .github/scripts/update_readme.py
 
       - name: Commit changes
