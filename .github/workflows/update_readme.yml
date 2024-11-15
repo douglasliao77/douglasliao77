@@ -37,7 +37,7 @@ jobs:
           pip install python-dotenv
 
       - name: Run script
-        run: python3 .github/scripts/update_readme.py
+        run: python3 .github/scripts/update_readme.py ${{ secrets.API_KEY }}
 
       - name: Commit changes
         run: |
