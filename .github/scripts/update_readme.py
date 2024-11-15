@@ -18,6 +18,7 @@ LIGA_STANDINGS_URL = "https://api.football-data.org/v4/competitions/PD/standings
 NEXT_MATCH_URL = "https://api.football-data.org/v4/teams/81/matches"  # FC Barcelona
 
 API_KEY  = os.getenv('API')
+test = os.getenv('test')
 
 def convert_to_swedish_time(utc_date, is_first_match):
     # Parse the UTC date string to a datetime object
