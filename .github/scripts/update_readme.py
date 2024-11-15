@@ -62,6 +62,7 @@ def fetch_liga_standings():
         else:
             crest = f"<img src='{crest_url}' alt='{name} crest' width='20' height='20' style='vertical-align: middle;'> {name}"
             table += f"| {position} | {crest} | {matches} | {won} | {draw} | {lost} | {points} |\n"
+    table += f"\nLast updated {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}"
     
     return table
 
@@ -105,8 +106,7 @@ def get_next_match():
             is_first_match = False
         else:
             table += f"| {home_team} | {away_team} | {date} | {competition} \n"
-
-    table += f"\nLast updated {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}"
+            
     return table
 
 # Update README file
