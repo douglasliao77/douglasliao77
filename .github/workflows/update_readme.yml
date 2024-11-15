@@ -14,35 +14,33 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Print environment variables
         run: printenv
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.12.3' 
+          python-version: '3.12.3'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pytz
           pip install python-dotenv
-          
-      - name: Commit changes
-        run: |
-          git config --global user.name douglasliao77
-          git config --global user.email douglasliao77@gmail.com
-          git add README.md
-          git status
-          git commit -m 'Daily update to README'
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/douglasliao77/douglasliao77.git
-        continue-on-error: true  # Prevents error if there's no change to commit
-        
-      - name: Run script 
+
+      - name: Run script
         env:
           API_KEY: ${{ secrets.API_KEY }}
-        run: |
-          run: python3 .github/scripts/update_readme.py
+        run: python3 .github/scripts/update_readme.py
 
+      - name: Commit changes
+        run: |
+          git config --global user.name "douglasliao77"
+          git config --global user.email "douglasliao77@gmail.com"
+          git add README.md
+          git status
+          git commit -m "Daily update to README"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/douglasliao77/douglasliao77.git
+        continue-on-error: true  # Prevent error if there's no change to commit
