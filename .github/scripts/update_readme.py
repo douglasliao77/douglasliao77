@@ -4,6 +4,7 @@ import pytz
 from datetime import datetime
 from dotenv import load_dotenv
 import os
+import sys
 
 
 # Constants for README markers
@@ -18,7 +19,6 @@ LIGA_STANDINGS_URL = "https://api.football-data.org/v4/competitions/PD/standings
 NEXT_MATCH_URL = "https://api.football-data.org/v4/teams/81/matches"  # FC Barcelona
 
 API_KEY  = os.getenv('API')
-test = os.getenv('test')
 
 def convert_to_swedish_time(utc_date, is_first_match):
     # Parse the UTC date string to a datetime object
@@ -38,8 +38,8 @@ def convert_to_swedish_time(utc_date, is_first_match):
         return f"{swedish_time.strftime('%Y-%m-%d')}"
 
 # Fetch La Liga standings
-def fetch_liga_standings():
-    headers = {'X-Auth-Token': API_KEY}
+def fetch_liga_standings(key):
+    headers = {'X-Auth-Token': key}
     response = requests.get(LIGA_STANDINGS_URL, headers=headers)
     data = response.json()
 
@@ -72,9 +72,9 @@ def fetch_liga_standings():
     return table
 
 # Fetch FC Barcelona's next match
-def get_next_match():
+def get_next_match(key):
     url = "https://api.football-data.org/v4/teams/81/matches"
-    headers = {'X-Auth-Token': API_KEY}
+    headers = {'X-Auth-Token': key}
     
     params = {
         'status': 'SCHEDULED',  # Only fetch scheduled matches
@@ -113,9 +113,9 @@ def get_next_match():
     return table
 
 # Update README file
-def update_readme():
-    standings_table = fetch_liga_standings()
-    next_match_info = get_next_match()
+def update_readme(key):
+    standings_table = fetch_liga_standings(key)
+    next_match_info = get_next_match(key)
 
     # Read the README content
     with open(README_PATH, "r") as file:
@@ -144,5 +144,6 @@ def update_readme():
         file.write(updated_content)
 
 if __name__ == "__main__":
-    update_readme()
+    
+    update_readme(sys.argv[1])
     print("README.md updated with the latest La Liga standings and next match information.")
