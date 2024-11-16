@@ -16,9 +16,7 @@ README_PATH = "README.md"
 # API constants
 LIGA_STANDINGS_URL = "https://api.football-data.org/v4/competitions/PD/standings"
 NEXT_MATCH_URL = "https://api.football-data.org/v4/teams/81/matches"  # FC Barcelona
-
 API_KEY  = os.getenv('API_KEY')
-print(API_KEY)
 
 def convert_to_swedish_time(utc_date, is_first_match):
     # Parse the UTC date string to a datetime object
@@ -46,9 +44,7 @@ def fetch_liga_standings(key):
     # Get top 5 teams for example
     top_teams = data['standings'][0]['table'][:4]
     
-    # Generate Markdown table
-    
-    
+    # Generate Markdown table  
     table = "Position | Team | Matches | Won | Draw | Lost | Points\n"
     table += "|---------|------|---------|-----|------|------|-------|\n"
     for team in top_teams:
@@ -74,7 +70,7 @@ def fetch_liga_standings(key):
 # Fetch FC Barcelona's next match
 def get_next_match(key):
     url = "https://api.football-data.org/v4/teams/81/matches"
-    headers = {'X-Auth-Token': API_KEY}
+    headers = {'X-Auth-Token': API_KEY }
     
     params = {
         'status': 'SCHEDULED',  # Only fetch scheduled matches
