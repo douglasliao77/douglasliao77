@@ -68,7 +68,7 @@ def fetch_liga_standings(key):
     return table
 
 # Fetch FC Barcelona's next match
-def get_next_match(key):
+def get_next_match():
     url = "https://api.football-data.org/v4/teams/81/matches"
     headers = {'X-Auth-Token': API_KEY }
     
@@ -109,9 +109,9 @@ def get_next_match(key):
     return table
 
 # Update README file
-def update_readme(key):
-    standings_table = fetch_liga_standings(key)
-    next_match_info = get_next_match(key)
+def update_readme():
+    standings_table = fetch_liga_standings()
+    next_match_info = get_next_match()
 
     # Read the README content
     with open(README_PATH, "r") as file:
@@ -140,6 +140,5 @@ def update_readme(key):
         file.write(updated_content)
 
 if __name__ == "__main__":
-    
-    update_readme(sys.argv[1])
+    update_readme()
     print("README.md updated with the latest La Liga standings and next match information.")
