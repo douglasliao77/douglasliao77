@@ -16,7 +16,7 @@
 # 📊 GitHub Stats
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![](https://github-readme-stats.vercel.app/api?username=douglasliao77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Douglas Liao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglasliao77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=douglasliao77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
