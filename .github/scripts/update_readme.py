@@ -39,7 +39,7 @@ def convert_to_swedish_time(utc_date, is_first_match):
 
 # Fetch La Liga standings
 def fetch_liga_standings(key):
-    headers = {'X-Auth-Token': key}
+    headers = {'X-Auth-Token': API_KEY}
     response = requests.get(LIGA_STANDINGS_URL, headers=headers)
     data = response.json()
 
@@ -74,7 +74,7 @@ def fetch_liga_standings(key):
 # Fetch FC Barcelona's next match
 def get_next_match(key):
     url = "https://api.football-data.org/v4/teams/81/matches"
-    headers = {'X-Auth-Token': key}
+    headers = {'X-Auth-Token': API_KEY}
     
     params = {
         'status': 'SCHEDULED',  # Only fetch scheduled matches
