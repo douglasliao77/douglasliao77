@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 import os
 import sys
 
-
 # Constants for README markers
 START_STANDINGS_MARKER = "<!-- START_LALIGA_STANDINGS -->"
 END_STANDINGS_MARKER = "<!-- END_LALIGA_STANDINGS -->"
@@ -18,7 +17,8 @@ README_PATH = "README.md"
 LIGA_STANDINGS_URL = "https://api.football-data.org/v4/competitions/PD/standings"
 NEXT_MATCH_URL = "https://api.football-data.org/v4/teams/81/matches"  # FC Barcelona
 
-API_KEY  = os.getenv('API')
+API_KEY  = os.getenv('API_KEY')
+print(API_KEY)
 
 def convert_to_swedish_time(utc_date, is_first_match):
     # Parse the UTC date string to a datetime object
