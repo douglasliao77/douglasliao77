@@ -1,7 +1,4 @@
-![Banner](./img.webp)
-# 👋 Hi, I'm Douglas
-
-
+![Banner](./banner.gif)
 
 ### Projects (more to come, just getting started :))
 | Project        | Description                                         | Link                          |
