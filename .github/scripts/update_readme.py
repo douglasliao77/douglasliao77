@@ -36,7 +36,7 @@ def convert_to_swedish_time(utc_date, is_first_match):
         return f"{swedish_time.strftime('%Y-%m-%d')}"
 
 # Fetch La Liga standings
-def fetch_liga_standings(key):
+def fetch_liga_standings():
     headers = {'X-Auth-Token': API_KEY}
     response = requests.get(LIGA_STANDINGS_URL, headers=headers)
     data = response.json()
