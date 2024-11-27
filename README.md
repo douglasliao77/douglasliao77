@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2024-11-26<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/512.png' alt='2024-11-26<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Stade Brestois 29** | **2024-11-26<br>21:00:00** | **UEFA Champions League** 
-| FC Barcelona | UD Las Palmas | 2024-11-30 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2024-11-30<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/275.png' alt='2024-11-30<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**UD Las Palmas** | **2024-11-30<br>14:00:00** | **Primera Division** 
 | RCD Mallorca | FC Barcelona | 2024-12-03 | Primera Division 
+| Real Betis Balompié | FC Barcelona | 2024-12-07 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 14 | 8 | 5 | 1 | 29 |
 | 4 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 13 | 7 | 4 | 2 | 25 |
 
-Last updated 2024-11-26 00:52:17
+Last updated 2024-11-27 00:52:55
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
