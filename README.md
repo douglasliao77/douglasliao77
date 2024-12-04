@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/89.png' alt='2024-12-03<br>19:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Mallorca** | <img src='https://crests.football-data.org/81.png' alt='2024-12-03<br>19:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2024-12-03<br>19:00:00** | **Primera Division** 
-| Real Betis Balompié | FC Barcelona | 2024-12-07 | Primera Division 
+| <img src='https://crests.football-data.org/90.png' alt='2024-12-07<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Real Betis Balompié** | <img src='https://crests.football-data.org/81.png' alt='2024-12-07<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2024-12-07<br>16:15:00** | **Primera Division** 
 | Borussia Dortmund | FC Barcelona | 2024-12-11 | UEFA Champions League 
+| FC Barcelona | CD Leganés | 2024-12-15 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -29,12 +29,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **15** | **11** | **1** | **3** | **34** |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **16** | **12** | **1** | **3** | **37** |
 | 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 14 | 10 | 3 | 1 | 33 |
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 15 | 9 | 5 | 1 | 32 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 15 | 7 | 5 | 3 | 26 |
 
-Last updated 2024-12-03 00:54:18
+Last updated 2024-12-04 00:54:14
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
