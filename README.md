@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 17 | 11 | 4 | 2 | 37 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 18 | 9 | 6 | 3 | 33 |
 
-Last updated 2024-12-17 00:54:05
+Last updated 2024-12-18 00:51:54
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
