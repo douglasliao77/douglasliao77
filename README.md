@@ -20,7 +20,7 @@ I have had a lot of passion for football for as long as I can remember and still
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
 | <img src='https://crests.football-data.org/81.png' alt='2024-12-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/78.png' alt='2024-12-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Club Atlético de Madrid** | **2024-12-21<br>21:00:00** | **Primera Division** 
-| Getafe CF | FC Barcelona | 2025-01-19 | Primera Division 
+| Getafe CF | FC Barcelona | 2025-01-18 | Primera Division 
 | Sport Lisboa e Benfica | FC Barcelona | 2025-01-21 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 17 | 11 | 4 | 2 | 37 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 18 | 9 | 6 | 3 | 33 |
 
-Last updated 2024-12-20 00:49:32
+Last updated 2024-12-21 00:48:07
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
