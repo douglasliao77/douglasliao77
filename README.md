@@ -3,9 +3,9 @@
 ### Projects (more to come, just getting started :))
 | Project        | Description                                         | Link                          |
 |---------------------|-----------------------------------------------------|-------------------------------|
-| **[Complex-Network-and-Big-Data](https://github.com/douglasliao77/Complex-Network-and-Big-Data)**        |   |  |
-| **[Leetcode-API](https://github.com/douglasliao77/Leetcode-API)**        |  |  |
-| **Project 3**        |           |  |
+| **[Complex Network and Big-Data](https://github.com/douglasliao77/Complex-Network-and-Big-Data)**        |   |  |
+| **[Leetcode API](https://github.com/douglasliao77/Leetcode-API)**        |  |  |
+| **[Advanced Programming](https://github.com/douglasliao77/Advanced-Programming)**        |           |  |
 | **Project 4**        |    | |
 | **Project 5**        |       |
 
