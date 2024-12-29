@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | **3** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **19** | **12** | **2** | **5** | **38** |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 19 | 10 | 6 | 3 | 36 |
 
-Last updated 2024-12-28 00:47:31
+Last updated 2024-12-29 00:54:22
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
