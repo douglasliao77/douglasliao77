@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/1903.png' alt='2025-01-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Sport Lisboa e Benfica** | <img src='https://crests.football-data.org/81.png' alt='2025-01-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-01-21<br>21:00:00** | **UEFA Champions League** 
-| FC Barcelona | Valencia CF | 2025-01-26 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2025-01-26<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/95.png' alt='2025-01-26<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Valencia CF** | **2025-01-26<br>21:00:00** | **Primera Division** 
 | FC Barcelona | Atalanta BC | 2025-01-29 | UEFA Champions League 
+| FC Barcelona | Deportivo Alavés | 2025-02-02 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | **3** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **20** | **12** | **3** | **5** | **39** |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 20 | 11 | 6 | 3 | 39 |
 
-Last updated 2025-01-21 00:47:08
+Last updated 2025-01-22 00:49:03
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
