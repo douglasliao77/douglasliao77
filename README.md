@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2025-02-02<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/263.png' alt='2025-02-02<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Deportivo Alavés** | **2025-02-02<br>14:00:00** | **Primera Division** 
-| Sevilla FC | FC Barcelona | 2025-02-09 | Primera Division 
+| <img src='https://crests.football-data.org/559.png' alt='2025-02-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Sevilla FC** | <img src='https://crests.football-data.org/81.png' alt='2025-02-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-02-09<br>21:00:00** | **Primera Division** 
 | FC Barcelona | Rayo Vallecano de Madrid | 2025-02-17 | Primera Division 
+| UD Las Palmas | FC Barcelona | 2025-02-22 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -31,10 +31,10 @@ Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 22 | 15 | 4 | 3 | 49 |
 | 2 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 22 | 14 | 6 | 2 | 48 |
-| **3** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **21** | **13** | **3** | **5** | **42** |
-| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 21 | 11 | 7 | 3 | 40 |
+| **3** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **22** | **14** | **3** | **5** | **45** |
+| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 22 | 11 | 8 | 3 | 41 |
 
-Last updated 2025-02-02 00:51:18
+Last updated 2025-02-03 00:49:45
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
