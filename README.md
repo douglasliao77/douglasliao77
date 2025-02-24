@@ -30,11 +30,11 @@ Home Team | Away Team | Matchday | Competition
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **25** | **17** | **3** | **5** | **54** |
-| 2 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 25 | 15 | 8 | 2 | 53 |
-| 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 24 | 15 | 6 | 3 | 51 |
-| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 24 | 12 | 9 | 3 | 45 |
+| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 25 | 16 | 6 | 3 | 54 |
+| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 25 | 15 | 8 | 2 | 53 |
+| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 25 | 13 | 9 | 3 | 48 |
 
-Last updated 2025-02-23 00:53:51
+Last updated 2025-02-24 00:51:54
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
