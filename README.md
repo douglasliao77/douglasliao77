@@ -21,7 +21,7 @@ Home Team | Away Team | Matchday | Competition
 |----------------|------|-------|--| 
 | <img src='https://crests.football-data.org/81.png' alt='2025-03-02<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/92.png' alt='2025-03-02<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Real Sociedad de Fútbol** | **2025-03-02<br>16:15:00** | **Primera Division** 
 | Sport Lisboa e Benfica | FC Barcelona | 2025-03-05 | UEFA Champions League 
-| FC Barcelona | CA Osasuna | 2025-03-09 | Primera Division 
+| FC Barcelona | CA Osasuna | 2025-03-08 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 25 | 15 | 8 | 2 | 53 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 25 | 13 | 9 | 3 | 48 |
 
-Last updated 2025-02-25 00:50:54
+Last updated 2025-02-26 00:50:48
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
