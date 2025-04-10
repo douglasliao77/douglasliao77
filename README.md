@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2025-04-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/4.png' alt='2025-04-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Borussia Dortmund** | **2025-04-09<br>21:00:00** | **UEFA Champions League** 
-| CD Leganés | FC Barcelona | 2025-04-12 | Primera Division 
+| <img src='https://crests.football-data.org/745.png' alt='2025-04-12<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**CD Leganés** | <img src='https://crests.football-data.org/81.png' alt='2025-04-12<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-04-12<br>21:00:00** | **Primera Division** 
 | Borussia Dortmund | FC Barcelona | 2025-04-15 | UEFA Champions League 
+| FC Barcelona | RC Celta de Vigo | 2025-04-19 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 30 | 17 | 9 | 4 | 60 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 30 | 14 | 12 | 4 | 54 |
 
-Last updated 2025-04-09 00:53:45
+Last updated 2025-04-10 00:53:46
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
