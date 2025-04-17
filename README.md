@@ -21,7 +21,7 @@ Home Team | Away Team | Matchday | Competition
 |----------------|------|-------|--| 
 | <img src='https://crests.football-data.org/81.png' alt='2025-04-19<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/558.png' alt='2025-04-19<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RC Celta de Vigo** | **2025-04-19<br>16:15:00** | **Primera Division** 
 | FC Barcelona | RCD Mallorca | 2025-04-22 | Primera Division 
-| FC Barcelona | None | 2025-04-30 | UEFA Champions League 
+| FC Barcelona | FC Internazionale Milano | 2025-04-30 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
 
@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 31 | 18 | 9 | 4 | 63 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 31 | 15 | 12 | 4 | 57 |
 
-Last updated 2025-04-16 00:55:10
+Last updated 2025-04-17 00:54:13
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
