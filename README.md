@@ -19,9 +19,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2025-04-19<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/558.png' alt='2025-04-19<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RC Celta de Vigo** | **2025-04-19<br>16:15:00** | **Primera Division** 
-| FC Barcelona | RCD Mallorca | 2025-04-22 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2025-04-22<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/89.png' alt='2025-04-22<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Mallorca** | **2025-04-22<br>21:30:00** | **Primera Division** 
 | FC Barcelona | FC Internazionale Milano | 2025-04-30 | UEFA Champions League 
+| Real Valladolid CF | FC Barcelona | 2025-05-04 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -29,12 +29,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **31** | **22** | **4** | **5** | **70** |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **32** | **23** | **4** | **5** | **73** |
 | 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 31 | 20 | 6 | 5 | 66 |
-| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 31 | 18 | 9 | 4 | 63 |
+| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 32 | 18 | 9 | 5 | 63 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 31 | 15 | 12 | 4 | 57 |
 
-Last updated 2025-04-19 00:51:50
+Last updated 2025-04-20 00:58:40
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
