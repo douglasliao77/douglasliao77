@@ -34,7 +34,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 33 | 19 | 9 | 5 | 66 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 33 | 16 | 12 | 5 | 60 |
 
-Last updated 2025-05-02 00:55:52
+Last updated 2025-05-03 00:54:22
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
