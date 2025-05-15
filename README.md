@@ -30,11 +30,11 @@ Home Team | Away Team | Matchday | Competition
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **35** | **26** | **4** | **5** | **82** |
-| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 35 | 23 | 6 | 6 | 75 |
+| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 36 | 24 | 6 | 6 | 78 |
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 35 | 20 | 10 | 5 | 70 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 35 | 17 | 13 | 5 | 64 |
 
-Last updated 2025-05-14 00:56:29
+Last updated 2025-05-15 00:55:05
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
