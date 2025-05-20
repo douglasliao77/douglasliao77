@@ -19,7 +19,7 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/77.png' alt='2025-05-25<br>02:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Athletic Club** | <img src='https://crests.football-data.org/81.png' alt='2025-05-25<br>02:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-05-25<br>02:00:00** | **Primera Division** 
+| <img src='https://crests.football-data.org/77.png' alt='2025-05-25<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Athletic Club** | <img src='https://crests.football-data.org/81.png' alt='2025-05-25<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-05-25<br>21:00:00** | **Primera Division** 
 
 <!-- END_NEXT_MATCH -->
 
@@ -32,7 +32,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 37 | 21 | 10 | 6 | 73 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 37 | 19 | 13 | 5 | 70 |
 
-Last updated 2025-05-19 00:59:47
+Last updated 2025-05-20 00:58:11
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
