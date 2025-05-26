@@ -17,7 +17,6 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/77.png' alt='2025-05-25<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Athletic Club** | <img src='https://crests.football-data.org/81.png' alt='2025-05-25<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-05-25<br>21:00:00** | **Primera Division** 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,12 +24,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **37** | **27** | **4** | **6** | **85** |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **38** | **28** | **4** | **6** | **88** |
 | 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 38 | 26 | 6 | 6 | 84 |
-| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 37 | 21 | 10 | 6 | 73 |
-| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 37 | 19 | 13 | 5 | 70 |
+| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 38 | 22 | 10 | 6 | 76 |
+| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 38 | 19 | 13 | 6 | 70 |
 
-Last updated 2025-05-25 01:02:28
+Last updated 2025-05-26 00:58:50
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
