@@ -17,7 +17,7 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/89.png' alt='2025-08-17<br>02:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Mallorca** | <img src='https://crests.football-data.org/81.png' alt='2025-08-17<br>02:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-17<br>02:00:00** | **Primera Division** 
+| <img src='https://crests.football-data.org/89.png' alt='2025-08-16<br>19:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Mallorca** | <img src='https://crests.football-data.org/81.png' alt='2025-08-16<br>19:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-16<br>19:30:00** | **Primera Division** 
 | Levante UD | FC Barcelona | 2025-08-24 | Primera Division 
 | Rayo Vallecano de Madrid | FC Barcelona | 2025-08-31 | Primera Division 
 
@@ -32,7 +32,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/79.png' alt='CA Osasuna crest' width='20' height='20' style='vertical-align: middle;'> CA Osasuna | 0 | 0 | 0 | 0 | 0 |
 | 1 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 0 | 0 | 0 | 0 | 0 |
 
-Last updated 2025-07-08 00:59:36
+Last updated 2025-07-09 01:00:18
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
