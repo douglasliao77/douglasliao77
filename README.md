@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/79.png' alt='CA Osasuna crest' width='20' height='20' style='vertical-align: middle;'> CA Osasuna | 0 | 0 | 0 | 0 | 0 |
 | 1 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 0 | 0 | 0 | 0 | 0 |
 
-Last updated 2025-08-13 00:59:35
+Last updated 2025-08-14 00:59:46
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
