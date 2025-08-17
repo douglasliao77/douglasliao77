@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/89.png' alt='2025-08-16<br>19:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Mallorca** | <img src='https://crests.football-data.org/81.png' alt='2025-08-16<br>19:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-16<br>19:30:00** | **Primera Division** 
-| Levante UD | FC Barcelona | 2025-08-23 | Primera Division 
+| <img src='https://crests.football-data.org/88.png' alt='2025-08-23<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Levante UD** | <img src='https://crests.football-data.org/81.png' alt='2025-08-23<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-23<br>21:30:00** | **Primera Division** 
 | Rayo Vallecano de Madrid | FC Barcelona | 2025-08-31 | Primera Division 
+| FC Barcelona | Valencia CF | 2025-09-14 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/87.png' alt='Rayo Vallecano de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Rayo Vallecano de Madrid | 1 | 1 | 0 | 0 | 3 |
-| 2 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 1 | 1 | 0 | 0 | 3 |
-| 3 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 0 | 0 | 0 | 0 | 0 |
-| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 0 | 0 | 0 | 0 | 0 |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **1** | **1** | **0** | **0** | **3** |
+| 2 | <img src='https://crests.football-data.org/87.png' alt='Rayo Vallecano de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Rayo Vallecano de Madrid | 1 | 1 | 0 | 0 | 3 |
+| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 1 | 1 | 0 | 0 | 3 |
+| 4 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 1 | 1 | 0 | 0 | 3 |
 
-Last updated 2025-08-16 00:56:55
+Last updated 2025-08-17 01:04:01
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
