@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 1 | 1 | 0 | 0 | 3 |
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 1 | 1 | 0 | 0 | 3 |
 
-Last updated 2025-08-19 00:57:34
+Last updated 2025-08-20 00:55:21
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
