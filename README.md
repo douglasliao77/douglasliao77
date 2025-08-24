@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/88.png' alt='2025-08-23<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Levante UD** | <img src='https://crests.football-data.org/81.png' alt='2025-08-23<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-23<br>21:30:00** | **Primera Division** 
-| Rayo Vallecano de Madrid | FC Barcelona | 2025-08-31 | Primera Division 
+| <img src='https://crests.football-data.org/87.png' alt='2025-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Rayo Vallecano de Madrid** | <img src='https://crests.football-data.org/81.png' alt='2025-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-31<br>21:30:00** | **Primera Division** 
 | FC Barcelona | Valencia CF | 2025-09-14 | Primera Division 
+| FC Barcelona | Getafe CF | 2025-09-21 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 1 | 1 | 0 | 4 |
-| **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **1** | **1** | **0** | **0** | **3** |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
+| 2 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 1 | 1 | 0 | 4 |
 | 3 | <img src='https://crests.football-data.org/87.png' alt='Rayo Vallecano de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Rayo Vallecano de Madrid | 1 | 1 | 0 | 0 | 3 |
 | 4 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 1 | 1 | 0 | 0 | 3 |
 
-Last updated 2025-08-23 00:53:34
+Last updated 2025-08-24 01:01:48
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
