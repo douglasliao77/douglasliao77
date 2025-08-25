@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
-| 2 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 1 | 1 | 0 | 4 |
-| 3 | <img src='https://crests.football-data.org/87.png' alt='Rayo Vallecano de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Rayo Vallecano de Madrid | 1 | 1 | 0 | 0 | 3 |
-| 4 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 1 | 1 | 0 | 0 | 3 |
+| 1 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 2 | 2 | 0 | 0 | 6 |
+| **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
+| 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
+| 4 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 2 | 1 | 1 | 0 | 4 |
 
-Last updated 2025-08-24 01:01:48
+Last updated 2025-08-25 00:57:51
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
