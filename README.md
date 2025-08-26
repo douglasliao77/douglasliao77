@@ -23,9 +23,9 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 2 | 2 | 0 | 0 | 6 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
-| 4 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 2 | 1 | 1 | 0 | 4 |
+| 4 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 2 | 2 | 0 | 0 | 6 |
 
-Last updated 2025-08-25 00:57:51
+Last updated 2025-08-26 00:56:26
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
