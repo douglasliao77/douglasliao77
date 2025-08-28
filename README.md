@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
 | 4 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 2 | 2 | 0 | 0 | 6 |
 
-Last updated 2025-08-27 00:54:39
+Last updated 2025-08-28 00:54:00
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
