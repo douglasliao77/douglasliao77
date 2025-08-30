@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/87.png' alt='2025-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Rayo Vallecano de Madrid** | <img src='https://crests.football-data.org/81.png' alt='2025-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-08-31<br>21:30:00** | **Primera Division** 
-| FC Barcelona | Valencia CF | 2025-09-14 | Primera Division 
-| FC Barcelona | Getafe CF | 2025-09-21 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='1-01-01<br>00:53:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/524.png' alt='1-01-01<br>00:53:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Paris Saint-Germain FC** | **1-01-01<br>00:53:00** | **UEFA Champions League** 
+| FC Barcelona | Eintracht Frankfurt | 1-01-01 | UEFA Champions League 
+| Club Brugge KV | FC Barcelona | 1-01-01 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
 
@@ -23,9 +23,9 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 2 | 2 | 0 | 0 | 6 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
-| 4 | <img src='https://crests.football-data.org/82.png' alt='Getafe CF crest' width='20' height='20' style='vertical-align: middle;'> Getafe CF | 2 | 2 | 0 | 0 | 6 |
+| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 2 | 2 | 0 | 0 | 6 |
 
-Last updated 2025-08-29 00:54:00
+Last updated 2025-08-30 00:51:39
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
