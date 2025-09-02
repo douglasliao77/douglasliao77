@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 3 | 2 | 1 | 0 | 7 |
 | **4** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **3** | **2** | **1** | **0** | **7** |
 
-Last updated 2025-09-01 01:04:24
+Last updated 2025-09-02 00:54:56
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
