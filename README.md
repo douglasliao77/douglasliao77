@@ -10,7 +10,7 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2025-09-14<br>18:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/95.png' alt='2025-09-14<br>18:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Valencia CF** | **2025-09-14<br>18:00:00** | **Primera Division** 
+| <img src='https://crests.football-data.org/81.png' alt='2025-09-14<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/95.png' alt='2025-09-14<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Valencia CF** | **2025-09-14<br>21:00:00** | **Primera Division** 
 | Newcastle United FC | FC Barcelona | 2025-09-18 | UEFA Champions League 
 | FC Barcelona | Getafe CF | 2025-09-21 | Primera Division 
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 3 | 2 | 1 | 0 | 7 |
 | **4** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **3** | **2** | **1** | **0** | **7** |
 
-Last updated 2025-09-02 00:54:56
+Last updated 2025-09-03 00:51:40
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
