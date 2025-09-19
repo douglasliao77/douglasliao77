@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/67.png' alt='2025-09-18<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Newcastle United FC** | <img src='https://crests.football-data.org/81.png' alt='2025-09-18<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-09-18<br>21:00:00** | **UEFA Champions League** 
-| FC Barcelona | Getafe CF | 2025-09-21 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2025-09-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/82.png' alt='2025-09-21<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Getafe CF** | **2025-09-21<br>21:00:00** | **Primera Division** 
 | Real Oviedo | FC Barcelona | 2025-09-25 | Primera Division 
+| FC Barcelona | Real Sociedad de Fútbol | 2025-09-28 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 4 | 3 | 1 | 0 | 10 |
 | 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 4 | 3 | 0 | 1 | 9 |
 
-Last updated 2025-09-18 00:52:01
+Last updated 2025-09-19 00:54:18
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
