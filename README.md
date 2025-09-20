@@ -23,9 +23,9 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 4 | 4 | 0 | 0 | 12 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **4** | **3** | **1** | **0** | **10** |
 | 3 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 4 | 3 | 1 | 0 | 10 |
-| 4 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 4 | 3 | 0 | 1 | 9 |
+| 4 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 6 | 2 | 3 | 1 | 9 |
 
-Last updated 2025-09-19 00:54:18
+Last updated 2025-09-20 00:50:50
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
