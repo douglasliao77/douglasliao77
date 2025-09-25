@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 6 | 4 | 1 | 1 | 13 |
 | 4 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 6 | 3 | 2 | 1 | 11 |
 
-Last updated 2025-09-24 00:53:18
+Last updated 2025-09-25 00:53:37
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
