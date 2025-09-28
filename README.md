@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 6 | 6 | 0 | 0 | 18 |
+| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 7 | 6 | 0 | 1 | 18 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **6** | **5** | **1** | **0** | **16** |
-| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 6 | 4 | 1 | 1 | 13 |
-| 4 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 7 | 3 | 3 | 1 | 12 |
+| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 7 | 5 | 1 | 1 | 16 |
+| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 7 | 3 | 3 | 1 | 12 |
 
-Last updated 2025-09-27 00:51:23
+Last updated 2025-09-28 00:58:47
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
