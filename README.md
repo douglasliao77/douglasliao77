@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 7 | 5 | 1 | 1 | 16 |
 | 4 | <img src='https://crests.football-data.org/285.png' alt='Elche CF crest' width='20' height='20' style='vertical-align: middle;'> Elche CF | 7 | 3 | 4 | 0 | 13 |
 
-Last updated 2025-09-29 00:54:58
+Last updated 2025-09-30 00:54:03
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
