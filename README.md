@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 8 | 5 | 1 | 2 | 16 |
 | 4 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 8 | 4 | 3 | 1 | 15 |
 
-Last updated 2025-10-17 00:54:04
+Last updated 2025-10-18 00:51:31
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
