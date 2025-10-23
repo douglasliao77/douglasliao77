@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2025-10-21<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/654.png' alt='2025-10-21<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**PAE Olympiakos SFP** | **2025-10-21<br>18:45:00** | **UEFA Champions League** 
-| Real Madrid CF | FC Barcelona | 2025-10-26 | Primera Division 
+| <img src='https://crests.football-data.org/86.png' alt='2025-10-26<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Real Madrid CF** | <img src='https://crests.football-data.org/81.png' alt='2025-10-26<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-10-26<br>16:15:00** | **Primera Division** 
 | FC Barcelona | Elche CF | 2025-11-02 | Primera Division 
+| Club Brugge KV | FC Barcelona | 2025-11-05 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 9 | 5 | 2 | 2 | 17 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 9 | 4 | 4 | 1 | 16 |
 
-Last updated 2025-10-22 00:56:43
+Last updated 2025-10-23 00:55:23
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
