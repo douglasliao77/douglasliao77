@@ -23,9 +23,9 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 10 | 9 | 0 | 1 | 27 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **10** | **7** | **1** | **2** | **22** |
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 10 | 6 | 2 | 2 | 20 |
-| 4 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 10 | 5 | 3 | 2 | 18 |
+| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 10 | 5 | 4 | 1 | 19 |
 
-Last updated 2025-10-27 01:00:33
+Last updated 2025-10-28 00:54:13
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
