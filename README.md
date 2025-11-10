@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/558.png' alt='2025-11-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RC Celta de Vigo** | <img src='https://crests.football-data.org/81.png' alt='2025-11-09<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2025-11-09<br>21:00:00** | **Primera Division** 
-| FC Barcelona | Athletic Club | 2025-11-22 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2025-11-22<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/77.png' alt='2025-11-22<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Athletic Club** | **2025-11-22<br>16:15:00** | **Primera Division** 
 | Chelsea FC | FC Barcelona | 2025-11-25 | UEFA Champions League 
+| FC Barcelona | Deportivo Alavés | 2025-11-29 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 11 | 10 | 0 | 1 | 30 |
-| 2 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 12 | 8 | 2 | 2 | 26 |
-| **3** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **11** | **8** | **1** | **2** | **25** |
+| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 12 | 10 | 1 | 1 | 31 |
+| **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **12** | **9** | **1** | **2** | **28** |
+| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 12 | 8 | 2 | 2 | 26 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 12 | 7 | 4 | 1 | 25 |
 
-Last updated 2025-11-09 00:59:48
+Last updated 2025-11-10 00:59:54
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
