@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 24 | 19 | 3 | 2 | 60 |
+| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 25 | 19 | 3 | 3 | 60 |
 | **2** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **24** | **19** | **1** | **4** | **58** |
-| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 23 | 14 | 3 | 6 | 45 |
-| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 24 | 13 | 6 | 5 | 45 |
+| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 24 | 15 | 3 | 6 | 48 |
+| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 25 | 14 | 6 | 5 | 48 |
 
-Last updated 2026-02-21 01:11:41
+Last updated 2026-02-22 01:16:57
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
