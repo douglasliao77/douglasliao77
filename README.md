@@ -11,8 +11,8 @@ I have had a lot of passion for football for as long as I can remember and still
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
 | <img src='https://crests.football-data.org/81.png' alt='2026-02-28<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/94.png' alt='2026-02-28<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Villarreal CF** | **2026-02-28<br>16:15:00** | **Primera Division** 
-| Athletic Club | FC Barcelona | 2026-03-08 | Primera Division 
-| FC Barcelona | Sevilla FC | 2026-03-15 | Primera Division 
+| Athletic Club | FC Barcelona | 2026-03-07 | Primera Division 
+| Newcastle United FC | FC Barcelona | 2026-03-10 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 25 | 16 | 3 | 6 | 51 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 25 | 14 | 6 | 5 | 48 |
 
-Last updated 2026-02-27 01:12:18
+Last updated 2026-02-28 01:07:18
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
