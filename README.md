@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2026-03-18<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/67.png' alt='2026-03-18<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Newcastle United FC** | **2026-03-18<br>18:45:00** | **UEFA Champions League** 
-| FC Barcelona | Rayo Vallecano de Madrid | 2026-03-22 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2026-03-22<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/87.png' alt='2026-03-22<br>14:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Rayo Vallecano de Madrid** | **2026-03-22<br>14:00:00** | **Primera Division** 
 | Club Atlético de Madrid | FC Barcelona | 2026-04-04 | Primera Division 
+| FC Barcelona | Club Atlético de Madrid | 2026-04-07 | UEFA Champions League 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 28 | 17 | 6 | 5 | 57 |
 | 4 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 28 | 17 | 4 | 7 | 55 |
 
-Last updated 2026-03-18 01:20:09
+Last updated 2026-03-19 01:19:43
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
