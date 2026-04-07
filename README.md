@@ -22,10 +22,10 @@ Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **30** | **25** | **1** | **4** | **76** |
 | 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 30 | 22 | 3 | 5 | 69 |
-| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 29 | 18 | 4 | 7 | 58 |
+| 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 30 | 18 | 4 | 8 | 58 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 30 | 17 | 6 | 7 | 57 |
 
-Last updated 2026-04-06 01:28:11
+Last updated 2026-04-07 01:26:03
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
