@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2026-04-08<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/78.png' alt='2026-04-08<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Club Atlético de Madrid** | **2026-04-08<br>21:00:00** | **UEFA Champions League** 
-| FC Barcelona | RCD Espanyol de Barcelona | 2026-04-11 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2026-04-11<br>18:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/80.png' alt='2026-04-11<br>18:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**RCD Espanyol de Barcelona** | **2026-04-11<br>18:30:00** | **Primera Division** 
 | Club Atlético de Madrid | FC Barcelona | 2026-04-14 | UEFA Champions League 
+| FC Barcelona | RC Celta de Vigo | 2026-04-22 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 30 | 18 | 4 | 8 | 58 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 30 | 17 | 6 | 7 | 57 |
 
-Last updated 2026-04-08 01:26:39
+Last updated 2026-04-09 01:18:25
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
