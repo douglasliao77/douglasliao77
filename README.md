@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/82.png' alt='2026-04-25<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Getafe CF** | <img src='https://crests.football-data.org/81.png' alt='2026-04-25<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-04-25<br>16:15:00** | **Primera Division** 
-| CA Osasuna | FC Barcelona | 2026-05-02 | Primera Division 
+| <img src='https://crests.football-data.org/79.png' alt='2026-05-02<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**CA Osasuna** | <img src='https://crests.football-data.org/81.png' alt='2026-05-02<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-05-02<br>21:00:00** | **Primera Division** 
 | FC Barcelona | Real Madrid CF | 2026-05-10 | Primera Division 
+| Deportivo Alavés | FC Barcelona | 2026-05-13 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **32** | **27** | **1** | **4** | **82** |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **33** | **28** | **1** | **4** | **85** |
 | 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 33 | 23 | 5 | 5 | 74 |
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 32 | 19 | 5 | 8 | 62 |
-| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 32 | 17 | 6 | 9 | 57 |
+| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 33 | 18 | 6 | 9 | 60 |
 
-Last updated 2026-04-25 01:27:45
+Last updated 2026-04-26 01:51:29
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
