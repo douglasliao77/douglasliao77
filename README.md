@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 33 | 20 | 5 | 8 | 65 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 33 | 18 | 6 | 9 | 60 |
 
-Last updated 2026-04-27 01:55:07
+Last updated 2026-04-28 02:02:04
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
