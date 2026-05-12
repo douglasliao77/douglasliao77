@@ -12,7 +12,7 @@ Home Team | Away Team | Matchday | Competition
 |----------------|------|-------|--| 
 | <img src='https://crests.football-data.org/263.png' alt='2026-05-13<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Deportivo Alavés** | <img src='https://crests.football-data.org/81.png' alt='2026-05-13<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-05-13<br>21:30:00** | **Primera Division** 
 | FC Barcelona | Real Betis Balompié | 2026-05-17 | Primera Division 
-| Valencia CF | FC Barcelona | 2026-05-24 | Primera Division 
+| Valencia CF | FC Barcelona | 2026-05-23 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 35 | 21 | 6 | 8 | 69 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 35 | 19 | 6 | 10 | 63 |
 
-Last updated 2026-05-11 02:10:55
+Last updated 2026-05-12 02:06:16
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
