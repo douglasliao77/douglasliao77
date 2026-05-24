@@ -10,7 +10,6 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/95.png' alt='2026-05-23<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Valencia CF** | <img src='https://crests.football-data.org/81.png' alt='2026-05-23<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-05-23<br>21:00:00** | **Primera Division** 
 
 <!-- END_NEXT_MATCH -->
 
@@ -18,12 +17,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **37** | **31** | **1** | **5** | **94** |
-| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 37 | 26 | 5 | 6 | 83 |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **38** | **31** | **1** | **6** | **94** |
+| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 38 | 27 | 5 | 6 | 86 |
 | 3 | <img src='https://crests.football-data.org/94.png' alt='Villarreal CF crest' width='20' height='20' style='vertical-align: middle;'> Villarreal CF | 37 | 21 | 6 | 10 | 69 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 37 | 21 | 6 | 10 | 69 |
 
-Last updated 2026-05-23 02:07:26
+Last updated 2026-05-24 02:26:28
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
