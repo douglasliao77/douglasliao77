@@ -21,11 +21,11 @@ Home Team | Away Team | Matchday | Competition
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | 1 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 1 | 1 | 0 | 0 | 3 |
-| 2 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 1 | 1 | 0 | 0 | 3 |
-| 3 | <img src='https://crests.football-data.org/77.png' alt='Athletic Club crest' width='20' height='20' style='vertical-align: middle;'> Athletic Club | 0 | 0 | 0 | 0 | 0 |
-| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 0 | 0 | 0 | 0 | 0 |
+| 1 | <img src='https://crests.football-data.org/80.png' alt='RCD Espanyol de Barcelona crest' width='20' height='20' style='vertical-align: middle;'> RCD Espanyol de Barcelona | 1 | 1 | 0 | 0 | 3 |
+| 3 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 1 | 1 | 0 | 0 | 3 |
+| 4 | <img src='https://crests.football-data.org/5335.png' alt='Real Racing Club de Santander crest' width='20' height='20' style='vertical-align: middle;'> Real Racing Club de Santander | 1 | 0 | 1 | 0 | 1 |
 
-Last updated 2026-08-16 00:42:39
+Last updated 2026-08-17 00:40:56
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
