@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 1 | 1 | 0 | 0 | 3 |
 | 4 | <img src='https://crests.football-data.org/5335.png' alt='Real Racing Club de Santander crest' width='20' height='20' style='vertical-align: middle;'> Real Racing Club de Santander | 1 | 0 | 1 | 0 | 1 |
 
-Last updated 2026-08-17 00:40:56
+Last updated 2026-08-18 00:40:11
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
