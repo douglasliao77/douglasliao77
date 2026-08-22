@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 1 | 1 | 0 | 0 | 3 |
 | 4 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 1 | 1 | 0 | 0 | 3 |
 
-Last updated 2026-08-21 00:43:03
+Last updated 2026-08-22 00:40:29
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
