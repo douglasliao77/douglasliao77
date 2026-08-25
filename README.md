@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 2 | 1 | 1 | 0 | 4 |
 | **4** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **1** | **1** | **0** | **0** | **3** |
 
-Last updated 2026-08-24 00:42:01
+Last updated 2026-08-25 00:41:47
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
