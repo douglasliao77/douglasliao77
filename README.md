@@ -21,11 +21,11 @@ Home Team | Away Team | Matchday | Competition
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | 1 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 2 | 2 | 0 | 0 | 6 |
-| 2 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 2 | 1 | 1 | 0 | 4 |
-| 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 2 | 1 | 1 | 0 | 4 |
-| **4** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **1** | **1** | **0** | **0** | **3** |
+| 2 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 2 | 0 | 0 | 6 |
+| 3 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 2 | 1 | 1 | 0 | 4 |
+| 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 2 | 1 | 1 | 0 | 4 |
 
-Last updated 2026-08-25 00:41:47
+Last updated 2026-08-26 00:42:30
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
