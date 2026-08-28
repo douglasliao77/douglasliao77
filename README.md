@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2026-08-27<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/77.png' alt='2026-08-27<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Athletic Club** | **2026-08-27<br>21:00:00** | **Primera Division** 
-| FC Barcelona | Rayo Vallecano de Madrid | 2026-08-31 | Primera Division 
+| <img src='https://crests.football-data.org/81.png' alt='2026-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/87.png' alt='2026-08-31<br>21:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Rayo Vallecano de Madrid** | **2026-08-31<br>21:30:00** | **Primera Division** 
 | Valencia CF | FC Barcelona | 2026-09-06 | Primera Division 
+| Levante UD | FC Barcelona | 2026-09-13 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -20,12 +20,12 @@ Home Team | Away Team | Matchday | Competition
 <!-- START_LALIGA_STANDINGS -->
 Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
-| 1 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
-| 2 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 2 | 2 | 0 | 0 | 6 |
-| 3 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 2 | 0 | 0 | 6 |
-| 4 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 2 | 1 | 1 | 0 | 4 |
+| **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **2** | **2** | **0** | **0** | **6** |
+| 2 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 2 | 2 | 0 | 0 | 6 |
+| 3 | <img src='https://crests.football-data.org/559.png' alt='Sevilla FC crest' width='20' height='20' style='vertical-align: middle;'> Sevilla FC | 2 | 2 | 0 | 0 | 6 |
+| 4 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 2 | 2 | 0 | 0 | 6 |
 
-Last updated 2026-08-27 05:50:13
+Last updated 2026-08-28 08:01:31
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
