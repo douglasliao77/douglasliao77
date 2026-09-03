@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 3 | 2 | 1 | 0 | 7 |
 | 4 | <img src='https://crests.football-data.org/263.png' alt='Deportivo Alavés crest' width='20' height='20' style='vertical-align: middle;'> Deportivo Alavés | 3 | 2 | 1 | 0 | 7 |
 
-Last updated 2026-09-02 02:02:24
+Last updated 2026-09-03 02:07:08
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
