@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/81.png' alt='2026-09-09<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | <img src='https://crests.football-data.org/675.png' alt='2026-09-09<br>18:45:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Feyenoord Rotterdam** | **2026-09-09<br>18:45:00** | **UEFA Champions League** 
-| Levante UD | FC Barcelona | 2026-09-13 | Primera Division 
+| <img src='https://crests.football-data.org/88.png' alt='2026-09-13<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Levante UD** | <img src='https://crests.football-data.org/81.png' alt='2026-09-13<br>16:15:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-09-13<br>16:15:00** | **Primera Division** 
 | FC Barcelona | Real Racing Club de Santander | 2026-09-16 | Primera Division 
+| Sevilla FC | FC Barcelona | 2026-09-19 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 4 | 3 | 0 | 1 | 9 |
 | 4 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 4 | 3 | 0 | 1 | 9 |
 
-Last updated 2026-09-09 02:12:18
+Last updated 2026-09-10 02:10:12
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
