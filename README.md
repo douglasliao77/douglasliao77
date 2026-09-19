@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 6 | 5 | 0 | 1 | 15 |
 | 4 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 6 | 4 | 1 | 1 | 13 |
 
-Last updated 2026-09-18 02:15:28
+Last updated 2026-09-19 02:18:05
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
