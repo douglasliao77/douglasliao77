@@ -22,10 +22,10 @@ Position | Team | Matches | Won | Draw | Lost | Points
 |---------|------|---------|-----|------|------|-------|
 | **1** | <img src='https://crests.football-data.org/81.png' alt='FC Barcelona crest' width='20' height='20' style='vertical-align: middle;'> **FC Barcelona** | **8** | **8** | **0** | **0** | **24** |
 | 2 | <img src='https://crests.football-data.org/78.png' alt='Club Atlético de Madrid crest' width='20' height='20' style='vertical-align: middle;'> Club Atlético de Madrid | 8 | 6 | 1 | 1 | 19 |
-| 3 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 8 | 6 | 0 | 2 | 18 |
-| 4 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 7 | 5 | 1 | 1 | 16 |
+| 3 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 8 | 6 | 1 | 1 | 19 |
+| 4 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 8 | 6 | 0 | 2 | 18 |
 
-Last updated 2026-10-11 02:58:32
+Last updated 2026-10-12 03:21:49
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
