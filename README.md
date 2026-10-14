@@ -10,9 +10,9 @@ I have had a lot of passion for football for as long as I can remember and still
 <!-- START_NEXT_MATCH -->
 Home Team | Away Team | Matchday | Competition 
 |----------------|------|-------|--| 
-| <img src='https://crests.football-data.org/610.png' alt='2026-10-13<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Galatasaray SK** | <img src='https://crests.football-data.org/81.png' alt='2026-10-13<br>21:00:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-10-13<br>21:00:00** | **UEFA Champions League** 
-| Real Betis Balompié | FC Barcelona | 2026-10-17 | Primera Division 
+| <img src='https://crests.football-data.org/90.png' alt='2026-10-17<br>18:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**Real Betis Balompié** | <img src='https://crests.football-data.org/81.png' alt='2026-10-17<br>18:30:00 crest' width='100' height='100' style='vertical-align: middle;'> <br>**FC Barcelona** | **2026-10-17<br>18:30:00** | **Primera Division** 
 | Paris Saint-Germain FC | FC Barcelona | 2026-10-20 | UEFA Champions League 
+| FC Barcelona | Real Madrid CF | 2026-10-25 | Primera Division 
 
 <!-- END_NEXT_MATCH -->
 
@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 8 | 6 | 1 | 1 | 19 |
 | 4 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 8 | 6 | 0 | 2 | 18 |
 
-Last updated 2026-10-13 04:36:29
+Last updated 2026-10-14 02:45:47
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
