@@ -25,7 +25,7 @@ Position | Team | Matches | Won | Draw | Lost | Points
 | 3 | <img src='https://crests.football-data.org/90.png' alt='Real Betis Balompié crest' width='20' height='20' style='vertical-align: middle;'> Real Betis Balompié | 8 | 6 | 1 | 1 | 19 |
 | 4 | <img src='https://crests.football-data.org/86.png' alt='Real Madrid CF crest' width='20' height='20' style='vertical-align: middle;'> Real Madrid CF | 8 | 6 | 0 | 2 | 18 |
 
-Last updated 2026-10-14 02:45:47
+Last updated 2026-10-15 02:24:51
 <!-- END_LALIGA_STANDINGS -->
 
 ## 📫 How to Reach Me
